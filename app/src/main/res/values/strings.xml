@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">CustomScope</string>
+    <string name="button_text_one">Button One</string>
+    <string name="button_text_two">Button Two</string>
+    <string name="button_text_three">Button Three</string>
+    <string name="button_text_four">Button Four</string>
+    <string name="button_text_five">Button Five</string>
+</resources>
